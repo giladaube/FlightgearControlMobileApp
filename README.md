@@ -35,5 +35,6 @@ This project built using two main design patterns:
 ### [Presentation and DEMO](https://github.com/giladaube/FlightgearControlApp/blob/0fe1fb08f4841c2c7e71e19c718cfec49eb43b32/FlightGear%20Joystick%20-DEMO.mp4)
 
 ### Screenshot
-![image](https://user-images.githubusercontent.com/39123326/123262992-2bb68e80-d501-11eb-8296-53be4b0c8999.png)
+![image](https://user-images.githubusercontent.com/39123326/123268895-21978e80-d507-11eb-8c0a-08cee6bf212a.png)
+
 
