@@ -15,12 +15,12 @@ git clone https://github.com/giladaube/FlightgearControlApp.git
 ```
 ### Usage
 1. Open FlighGear app:
-  * Under "Settings" section, look for "Additional Settings"
-  * Copy&paste the following (into the text box): 
-  > --telnet=socket,in,10,127.0.0.1,6400,tcp
-  * Click on the "Fly!" button
+   1. Under "Settings" section, look for "Additional Settings"
+   2. Copy&paste the following (into the text box): 
+    > --telnet=socket,in,10,127.0.0.1,6400,tcp
+   4. Click on the "Fly!" button
 2. Run the FlightgearControlApp (from your IDE).
-  * Connect to the simulator on port 6400.
+   1. Connect to the simulator on port 6400.
 3. Enjoy!
 
 ## Design
