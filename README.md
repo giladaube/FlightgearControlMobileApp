@@ -14,7 +14,8 @@ In order to run this app on your computer, please follow the following steps:
 git clone https://github.com/giladaube/FlightgearControlApp.git
 ```
 4. Open FlighGear app:
-  4.1. Under "Settings" secion, look for "Additional Settings".
+a. Under "Settings" secion, look for "Additional Settings".
+b. ddd
   4.2. Copy&paste the following (into the text box):
   ```bash
   --telnet=socket,in,10,127.0.0.1,6400,tcp
