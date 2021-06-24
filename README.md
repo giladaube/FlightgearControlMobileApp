@@ -11,5 +11,5 @@ In order to run this app on your computer, please follow the following steps:
 2. Download the [FlightGear simulator](https://www.flightgear.org/download/).
 3. Git clone- you'll need to get a local copy of this project.
 ```bash
-git clone
+git clone https://github.com/giladaube/FlightgearControlApp.git
 ```
