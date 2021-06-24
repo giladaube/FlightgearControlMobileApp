@@ -4,6 +4,7 @@ FlightGear-Control is Android app, developed with Kotlin.
 ## About the project
 The app was built as an academic assigment. The application provides a way to flight a plane displayed by FlightGear simulator.
 Using a custom joystick, is is possible to control and fly the plane from the mobile app.
+***
 
 ## Let's get ready
 In order to run this app on your computer, please follow the following steps:
