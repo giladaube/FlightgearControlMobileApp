@@ -17,9 +17,7 @@ git clone https://github.com/giladaube/FlightgearControlApp.git
 4. Open FlighGear app:
   * Under "Settings" section, look for "Additional Settings".
   * Copy&paste the following (into the text box):
-    ```bash
-    --telnet=socket,in,10,127.0.0.1,6400,tcp
-    ```
+    > --telnet=socket,in,10,127.0.0.1,6400,tcp
   * Click on the "Fly!" button.
 6. Run the FlightgearControlApp (from your IDE).
 7. 
