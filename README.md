@@ -20,6 +20,7 @@ git clone https://github.com/giladaube/FlightgearControlApp.git
   > --telnet=socket,in,10,127.0.0.1,6400,tcp
   * Click on the "Fly!" button
 2. Run the FlightgearControlApp (from your IDE).
+  * Connect to the simulator on port 6400.
 3. Enjoy!
 
 ## Design
