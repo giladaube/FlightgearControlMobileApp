@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flight Simulator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_connect">Connect</string>
+    <string name="rudderBar">rudder</string>
+    <string name="throttleBar">throttle</string>
+    <string name="hint_ip_address">Enter IP address</string>
+    <string name="hint_port">Enter FlightGear Port</string>
+</resources>
